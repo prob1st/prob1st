@@ -6,11 +6,11 @@
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fatih%20Mehmet%20TEZCAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Engineering%20Enthusiast%20%7C%20Chess%20Tools%20Builder&descAlignY=55&descSize=17" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fatih%20Mehmet%20TEZCAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26amp%3B%20Data%20Engineering%20Enthusiast%20%7C%20Chess%20Tools%20Builder&descAlignY=55&descSize=17" alt="header" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=660&lines=Future+AI+%26+Data+Engineer;Python+%7C+TypeScript+%7C+JavaScript;Building+chess+engines+%26+web+tools;Code.+Learn.+Ship.+Repeat." alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=660&lines=Future+AI+%26+Data+Engineer;Python+%7C+TypeScript+%7C+JavaScript;Building+chess+engines+%26+web+tools;Esports+player%3A+Chess+%26+Standoff+2;Code.+Learn.+Ship.+Repeat." alt="typing" /></a>
 
 <br/>
 
@@ -32,6 +32,7 @@ class Fatih:
 
     currently = ["Machine Learning", "Data Engineering", "chess engines (Stockfish WASM)"]
     building  = ["FlipHTML Downloader", "Chessign", "Vezir", "AI experiments"]
+    esports   = ["Chess ♟️", "Standoff 2 🎮"]
     goal      = "Become an AI & Data Engineer 🎯"
 
     def say_hi(self):
@@ -40,6 +41,7 @@ class Fatih:
 
 - 🤖 I'm deeply into **Artificial Intelligence** — my goal is to become an **AI & Data Engineer**
 - ♟️ I build **chess tools**: game analysis with Stockfish WASM, PGN tooling, cheat-detection telemetry
+- 🎮 I'm also an **esports player**, competing in **Chess** and **Standoff 2**
 - 🌐 I ship **web tools & browser extensions** with Python, TypeScript and JavaScript
 - 🎓 15 years old, 10th grade — learning by building real projects, one repo at a time
 - ⚡ Fun fact: most of my projects started as *"I wonder if I can build that…"*
@@ -51,6 +53,7 @@ class Fatih:
 
 - 🤖 **Yapay zekâya** büyük ilgim var — hedefim **Yapay Zekâ ve Veri Mühendisi** olmak
 - ♟️ **Satranç araçları** geliştiriyorum: Stockfish WASM ile oyun analizi, PGN araçları, hile tespit telemetrisi
+- 🎮 Aynı zamanda **e-sporcuyum** — **Satranç** ve **Standoff 2** branşlarında yarışıyorum
 - 🌐 Python, TypeScript ve JavaScript ile **web araçları ve tarayıcı uzantıları** yapıyorum
 - 🎓 15 yaşındayım, 10. sınıf öğrencisiyim — gerçek projeler yaparak öğreniyorum
 - ⚡ Eğlenceli bilgi: projelerimin çoğu *"acaba bunu yapabilir miyim…"* diye başladı
@@ -95,7 +98,8 @@ class Fatih:
 
 <br/>
 
-🌐 **Live demo / Canlı:** <a href="https://fliphtml-downloader-xi.vercel.app">fliphtml-downloader-xi.vercel.app</a> — download FlipHTML5 books as PDF in your browser
+🌐 **Live demo / Canlı:** <a href="https://www.instagram.com/fthwastaken"><img src="https://img.shields.io/badge/Instagram-@fthwastaken-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://fliphtml-downloader-xi.vercel.app">fliphtml-downloader-xi.vercel.app</a> — download FlipHTML5 books as PDF in your browser
 
 </div>
 
@@ -143,7 +147,6 @@ class Fatih:
   KULLANICI_ADI kısımlarını kendi kullanıcı adlarınla değiştir:
 
   <a href="https://www.linkedin.com/in/KULLANICI_ADI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://www.instagram.com/KULLANICI_ADI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
   <a href="https://x.com/KULLANICI_ADI"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
   <a href="https://www.youtube.com/@KULLANICI_ADI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
 -->
